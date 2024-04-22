@@ -24,7 +24,7 @@ const Hero = () => (
           className="flex flex-row justify-center items-center"
         >
           <h1 className={styles.heroHeading}>Using</h1>
-          <h1 className={styles.heroHeading}>React & Tailwind</h1>
+          <h1 className={styles.heroHeading}>Next.js & Tailwind</h1>
         </motion.div>
       </div>
 
